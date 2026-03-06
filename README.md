@@ -17,8 +17,6 @@
 mini_project
 ├─ main
 ├─ logic
-├─ utils
-└─ README.md
 ```
 
 각 프로젝트는 기능별로 파일을 분리하여 관리하며,
